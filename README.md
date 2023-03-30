@@ -1,2 +1,2 @@
-# effective-goggles
-University car park
+# University car park
+this application will allow you to rent parking spaces and manipulate them
